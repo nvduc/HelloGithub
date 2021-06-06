@@ -9,6 +9,7 @@ void s2112212_hello(void);
 void s2112213_hello(void);
 void s2112214_hello(void);
 void s2112215_hello(void);
+void test_hello(void);
 
 int main(int argc, char const *argv[])
 {
@@ -58,4 +59,8 @@ void s2112214_hello(void){
 
 void s2112215_hello(void){
 	printf(" \n");
+}
+
+void test_hello(void){
+	printf("test: hello\n");
 }
