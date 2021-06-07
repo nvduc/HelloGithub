@@ -62,5 +62,5 @@ void s2112215_hello(void){
 }
 
 void test_hello(void){
-	printf("test: hellooo\n");
+	printf("test: helloooo\n");
 }
