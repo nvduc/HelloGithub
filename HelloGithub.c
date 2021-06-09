@@ -37,7 +37,7 @@ void s2112209_hello(void){
 	printf(" \n");
 }
 
-void s2112210_hello(void){
+void s2112210_hello(void){printf("s2112210:こんにちは、岩井渉です。\n");
 	printf(" \n");
 }
 
