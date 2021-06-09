@@ -46,7 +46,7 @@ void s2112211_hello(void){
 }
 
 void s2112212_hello(void){
-	printf(" \n");
+	printf("s2112212:Ç±ÇÒÇ…ÇøÇÕÅAì‡äCíq·©Ç≈Ç∑ÅB \n");
 }
 
 void s2112213_hello(void){
