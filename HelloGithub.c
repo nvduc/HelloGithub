@@ -54,11 +54,11 @@ void s2112213_hello(void){
 }
 
 void s2112214_hello(void){
-	printf(" \n");
+	printf("s2112214: こんにちは、蝦名　尊です。\n");
 }
 
 void s2112215_hello(void){
-	printf(" \n");
+	printf("2112215:こんにちは、遠藤清志郎です。\n");
 }
 
 void test_hello(void){
