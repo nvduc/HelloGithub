@@ -26,7 +26,7 @@ int main(int argc, char const *argv[])
 }
 
 void s2112207_hello(void){
-	printf(" \n");
+	printf(" s2112207:こんにちは、伊藤　慶次です。\n");
 }
 
 void s2112208_hello(void){
@@ -58,7 +58,7 @@ void s2112214_hello(void){
 }
 
 void s2112215_hello(void){
-	printf(" \n");
+	printf("2112215:こんにちは、遠藤清志郎です。\n");
 }
 
 void test_hello(void){
