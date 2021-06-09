@@ -42,7 +42,7 @@ void s2112210_hello(void){
 }
 
 void s2112211_hello(void){
-	printf(" \n");
+	printf("s2112211:こんにちは、うぶんこうです。 \n");
 }
 
 void s2112212_hello(void){
